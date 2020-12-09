@@ -1,11 +1,11 @@
 Hello! This program detects English and Russian texts on photo
 
-Availoble extensions: JPEG, PNG, PBM, PGM, PPM, TIFF, BMP, GIF, WEBP
+Available extensions: JPEG, PNG, PBM, PGM, PPM, TIFF, BMP, GIF, WEBP
 
-Run to install to Windows:
+Run to install in Windows:
 	 pip install -r depends.txt
 
-If your OS is Linux run: 
+Run to install in Linux: 
 	pip3 install -r depends.txt
 
 Also you need to install Tesseract-ocr, url: https://github.com/tesseract-ocr/tessdoc
