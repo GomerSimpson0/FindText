@@ -1,10 +1,15 @@
+Find Text
+=========
+
 Hello! This program detects English and Russian texts on photo
 
 Available extensions: JPEG, PNG, PBM, PGM, PPM, TIFF, BMP, GIF, WEBP
 
+
 Run to install some python packages in Windows:
 
 	 pip install -r depends.txt
+
 
 Run to install some python packages in Linux: 
 
