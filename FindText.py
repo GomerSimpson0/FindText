@@ -7,7 +7,7 @@ from skimage import io
 
 os.system("cls" if os.name == 'nt' else 'clear')
 
-print("Hello! This programm detect English and Russian text on photo\n")
+print("Hello! This programm detect English text on photo\n")
 
 
 while True:
@@ -16,7 +16,7 @@ while True:
     if os.path.exists(file) == True:
         print("File detect\n")
         filename, file_extension = os.path.splitext(file)
-        if (file_extension == '.png' or file_extension == '.jpg' or file_extension == '.pbm' or
+        if (file_extension == '.jpeg' or file_extension == '.png' or file_extension == '.jpg' or file_extension == '.pbm' or
         file_extension == '.pgm' or file_extension == '.ppm' or file_extension == '.tiff' or
         file_extension == '.bmp' or file_extension == '.gif' or file_extension == '.webp'):
             print("Processing . . .")
