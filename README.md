@@ -3,7 +3,7 @@ Find Text
 
 Hello! This program detects English and Russian texts on photo
 
-Available extensions: JPEG, PNG, PBM, PGM, PPM, TIFF, BMP, GIF, WEBP
+Available extensions: JPG, JPEG, PNG, PBM, PGM, PPM, TIFF, BMP, GIF, WEBP
 
 
 Run to install some python packages in Windows:
